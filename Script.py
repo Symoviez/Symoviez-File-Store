@@ -60,11 +60,11 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Symoviez>all3inone</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Symoviiez>all3inone</a>
 
 ⚡ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>
 
-👥 Movie Request ɢroup: <a href=https://t.me/Symoviez1>Movie Request ɢroup</a>
+👥 Movie Request ɢroup: <a href=https://t.me/Symoviez4>Movie Request ɢroup</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Symoviiez>Bᴏᴛ 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
@@ -162,5 +162,6 @@ Nᴀᴍᴇ - {}</b>
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
