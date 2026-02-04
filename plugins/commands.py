@@ -79,10 +79,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Symoviez')
+            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Symoviiez')
             ],[
-            InlineKeyboardButton('🔍 Movie Request ɢroup', url='https://t.me/Symoviez1'),
-            InlineKeyboardButton('🍿 Main ᴄʜᴀɴɴᴇʟ', url='https://t.me/Symoviez')
+            InlineKeyboardButton('🔍 Movie Request ɢroup', url='https://t.me/Symoviez4'),
+            InlineKeyboardButton('🍿 Main ᴄʜᴀɴɴᴇʟ', url='https://t.me/Symoviiez')
             ],[
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('✨ ᴀʙᴏᴜᴛ', callback_data='about')
@@ -433,10 +433,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Symoviez')
+            InlineKeyboardButton('🤖 ʙᴏᴛ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Symoviiez')
             ],[
-            InlineKeyboardButton('🔍 Movie Request ɢroup', url='https://t.me/Symoviez1'),
-            InlineKeyboardButton('🍿 Main ᴄʜᴀɴɴᴇʟ', url='https://t.me/Symoviez')
+            InlineKeyboardButton('🔍 Movie Request ɢroup', url='https://t.me/Symoviez4'),
+            InlineKeyboardButton('🍿 Main ᴄʜᴀɴɴᴇʟ', url='https://t.me/Symoviiez')
             ],[
             InlineKeyboardButton('🎁 ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('✨ ᴀʙᴏᴜᴛ', callback_data='about')
