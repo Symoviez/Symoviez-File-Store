@@ -64,7 +64,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 ⚡ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ: <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>
 
-👥 Movie Request ɢroup: <a href=https://t.me/Symoviez4>Movie Request ɢroup</a>
+👥 Movie Request ɢroup: <a href=https://t.me/+HNPa8wmacTlmYzI1>Movie Request ɢroup</a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/Symoviiez>Bᴏᴛ 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
